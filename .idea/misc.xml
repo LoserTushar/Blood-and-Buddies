@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BloodAndBuddies/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.1695" />
+        <entry key="..\:/BloodAndBuddies/app/src/main/res/drawable/ic_check.xml" value="0.1695" />
+        <entry key="..\:/BloodAndBuddies/app/src/main/res/drawable/ic_mail_24.xml" value="0.1695" />
+        <entry key="..\:/BloodAndBuddies/app/src/main/res/drawable/ic_phone_24.xml" value="0.1695" />
+        <entry key="..\:/BloodAndBuddies/app/src/main/res/layout/activity_about.xml" value="0.25416666666666665" />
+        <entry key="..\:/BloodAndBuddies/app/src/main/res/layout/activity_notification.xml" value="0.25416666666666665" />
+        <entry key="..\:/BloodAndBuddies/app/src/main/res/layout/activity_sent_email.xml" value="0.25416666666666665" />
+        <entry key="..\:/BloodAndBuddies/app/src/main/res/layout/notification_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/BloodAndBuddies/app/src/main/res/layout/output_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/BloodAndBuddies/app/src/main/res/layout/user_displayed_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/drawable/button_background.xml" value="0.1685" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/drawable/ic_add_check.xml" value="0.1685" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/drawable/ic_email_read.xml" value="0.1685" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/drawable/ic_notification.xml" value="0.1" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/layout/activity_catogary_selected.xml" value="0.1875" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/layout/activity_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/layout/activity_donor_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/layout/activity_forgot_password.xml" value="0.176" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/layout/activity_notification.xml" value="0.1" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/layout/activity_recipient_registration.xml" value="0.1" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/layout/activity_select_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/layout/activity_sent_email.xml" value="0.1" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/layout/navigation_head.xml" value="0.25416666666666665" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/layout/notification_item.xml" value="0.1" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/layout/output_layout.xml" value="0.1" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/layout/user_displayed_layout.xml" value="0.264" />
+        <entry key="..\:/Important Materials/Android Apps/BloodAndBuddies/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

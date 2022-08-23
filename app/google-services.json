@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "252016884373",
+    "project_id": "blood-and-buddies",
+    "storage_bucket": "blood-and-buddies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252016884373:android:bfd2c03ef0e30fd253799c",
+        "android_client_info": {
+          "package_name": "com.majorproject.bloodandbuddies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252016884373-rvkscv36ivsp5d20lkim7p105giqtskm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.majorproject.bloodandbuddies",
+            "certificate_hash": "7b212866c77d04bc2c52de986ee060b7cc8be799"
+          }
+        },
+        {
+          "client_id": "252016884373-l7p1en4sito1o4lna46gfrgvvh3qjlld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5BX5Yq39JGPOwZs0XdXCHtW2fFVpAcdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252016884373-l7p1en4sito1o4lna46gfrgvvh3qjlld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

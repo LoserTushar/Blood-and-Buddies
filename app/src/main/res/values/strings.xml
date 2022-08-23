@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Blood And Buddies</string>
+
+    <string name="about">Blood is a body fluid in the circulatory system of humans and other vertebrates that delivers necessary substances such as nutrients and oxygen to the cells, and transports metabolic waste products away from those same cells. Blood is composed of blood cells suspended in blood plasma.</string>
+    <string name="bloodtype">The 4 different blood groups are: <b>\n\tA\n\tB\n\tAB\n\tO\n\n</b> Each type is either Rh-positive or Rh-negative. \n\n O negative blood can be given to anybody if necessary, but it is always preferable to match the exact blood group to prevent dangerous reactions.</string>
+    <string name="who_can_donate">Healthy adults (18–75 years) who meet donation eligibility criteria can donate blood. The procedure is safe and relatively painless. \n\nDuring a regular donation, you will give around 470ml of whole blood. This is about 8% of the average adult’s blood volume. \n\nThe body replaces this volume within 24 to 48 hours, and replenishes red blood cells in 10 to 12 weeks.</string>
+    <string name="type_of_bdonation"><b>The main types of blood donation include:</b> \n\nBlood – a standard donation, consisting of plasma, red and white blood cells, platelets, antibodies and other components. \n\nPlasma (known as apheresis) – plasma is separated from the other components by a special machine, and the red blood cells are returned to the donor in cycles throughout the donation. \n\nPlatelets (known as plateletpheresis) – done in a similar way to plasma donation, but the red cells and plasma are returned to the donor. <b>\n\nLess common donations include:</b> \n\nAutologous – prior to a scheduled operation or transfusion, a person donates blood for their own use. \n\nDirected or designated donation – a donor can give blood that will be used for a specific person. \n\nAutologous and directed donations are now rare, occurring only in special medical cases. These blood donations have the same risks as regular blood donations.</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string-array name="bloodgroups">
+        <item><b>Select Your Blood Group</b>></item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+</resources>
