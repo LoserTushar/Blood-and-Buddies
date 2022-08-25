@@ -7,6 +7,7 @@
  There is a challenge for other developers, in my project there are 2 drawbacks/mistakes/error.
  
       First is due to google shutdown there less secure service the send email function not work properly, the mail is sent from the application but does not show in the mail app.
+      
       The second one is Notification activity is not working, app does not get notification when any mail is sent or received by app
       
 So, find a solution for this complete the challange and share it with other developers.
